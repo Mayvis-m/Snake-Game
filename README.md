@@ -15,4 +15,4 @@ Self-taught
 
 Create Graphical User interfaces using Tkinter
 
-Core Data (create bind keys, coordinates, canvas)
+Core Data (bind keys, coordinates, canvas)
