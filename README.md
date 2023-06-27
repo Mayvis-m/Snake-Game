@@ -1,5 +1,5 @@
 # Snake-Game
-
+=============
 Catching the maximum number of fruits without hitting the cross border or the wall
 =============
 
