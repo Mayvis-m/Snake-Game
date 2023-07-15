@@ -7,7 +7,7 @@ Catching the maximum number of fruits without hitting the cross border or the wa
 
 Margaret A.
 
-Self-taught
+Source: https://www.youtube.com/watch?v=bfRwxS5d0SI&list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT&index=105
 
 *Python 3.9.13*
 
